@@ -1,6 +1,6 @@
 # Lead Conversion
 
-The project automates the process of converting cold leads into active participants in an AI class by tracking engagement and facilitating interactions through an AI agent.
+Automates the conversion of cold leads into active participants in an AI class through engagement tracking.
 
 ---
 [← Back to portfolio](../README.md)
