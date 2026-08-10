@@ -1,6 +1,6 @@
 # Repo Pulse
 
-RepoPulse tracks the status of GitHub repositories by collecting snapshots and generating reports, helping teams manage their sprint progress effectively.
+Tracks the status of repositories by collecting snapshots and generating reports for effective sprint management.
 
 ---
 [← Back to portfolio](../README.md)
