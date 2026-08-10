@@ -12,11 +12,11 @@
 
 Data Engineer with 5 + years of proven expertise in building reliable Microsoft Fabric Lakehouse pipelines and optimizing BI solutions in various sectors. Strong collaborator with experience translating business requirements into technical solutions that improve performance and stakeholder trust.
 
-I am a senior engineer specializing in AI and full-stack development, with a focus on building robust applications that leverage cutting-edge technologies. My expertise lies in creating seamless integrations of AI capabilities into production systems, ensuring that solutions not only meet business needs but also enhance user experiences. I thrive on tackling complex engineering challenges and delivering high-quality software that scales effectively.
+I am a senior engineer specializing in AI and full-stack development, with a robust background in building scalable applications and integrating advanced machine learning capabilities. My expertise lies in creating production-grade systems that leverage a diverse technology stack, ensuring seamless interaction between frontend and backend components while maintaining a focus on user experience and performance.
 
-My technical skill set encompasses a diverse range of technologies, including Python, React, Node.js, and PostgreSQL, as well as data visualization tools like Power BI and Plotly. I have hands-on experience with machine learning and AI integration using OpenAI, along with a solid foundation in backend development and database management. I am adept at implementing production infrastructure as code, ensuring reproducible and automated deployments across the application lifecycle.
+I have hands-on experience with technologies including Python, React, Node.js, PostgreSQL, and OpenAI, among others. I excel in developing AI-powered applications that require complex data processing and visualization, utilizing tools such as Power BI and Plotly. My approach encompasses defining infrastructure as code for automated deployments, ensuring reliability and efficiency across the application lifecycle. I am skilled in managing user authentication, persistent data storage, and server-side rendering to optimize both performance and security.
 
-I approach software development with a focus on clean architecture and domain-driven design, aiming to create systems that are both maintainable and efficient. My goal is to contribute to innovative projects that push the boundaries of technology while maintaining a strong emphasis on quality and performance. I am always eager to learn and grow, looking for opportunities to collaborate with teams that share a commitment to excellence in engineering.
+I am committed to continuous learning and innovation in software engineering, aiming to contribute to projects that push the boundaries of technology. My goal is to leverage my skills in AI and full-stack development to create impactful solutions that address real-world challenges and enhance user engagement.
 
 ---
 
@@ -46,7 +46,7 @@ A Express + PostgreSQL + OpenAI-powered AI-powered API service spanning 8 archit
 
 ### Cora Recap Engine
 
-A Next.js + Express-powered AI-powered full-stack application spanning 7 architectural layers with integrated AI capabilities and production infrastructure.
+A Next.js + PostgreSQL + OpenAI-powered AI-powered full-stack application spanning 7 architectural layers with integrated AI capabilities and production infrastructure.
 
 <p align="right">
   <a href="./project-cora-recap-engine/README.md"><b>View Full Project →</b></a>
@@ -63,7 +63,7 @@ A Next.js + Express-powered AI-powered full-stack application spanning 7 archite
 
 ### Repo Pulse
 
-A well-engineered software project spanning 4 architectural layers.
+A well-engineered data-driven application spanning 5 architectural layers.
 
 <p align="right">
   <a href="./project-repopulse/README.md"><b>View Full Project →</b></a>
@@ -80,7 +80,7 @@ A well-engineered software project spanning 4 architectural layers.
 
 ### Lead Conversion
 
-A Express-powered software project spanning 4 architectural layers.
+A OpenAI-powered software project spanning 4 architectural layers with integrated AI capabilities.
 
 <p align="right">
   <a href="./project-lead-conversion/README.md"><b>View Full Project →</b></a>
