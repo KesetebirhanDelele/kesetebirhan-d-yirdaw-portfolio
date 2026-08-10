@@ -1,6 +1,6 @@
 # Cora Recap Engine
 
-A Next.js + PostgreSQL + OpenAI-powered AI-powered full-stack application spanning 7 architectural layers with integrated AI capabilities and production infrastructure.
+This project automates lead recap processes and integrates various services to streamline inbound and outbound lead management.
 
 ---
 [← Back to portfolio](../README.md)
