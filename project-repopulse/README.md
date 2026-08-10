@@ -1,6 +1,6 @@
 # Repo Pulse
 
-A well-engineered software project spanning 4 architectural layers.
+A well-engineered data-driven application spanning 5 architectural layers.
 
 ---
 [← Back to portfolio](../README.md)
