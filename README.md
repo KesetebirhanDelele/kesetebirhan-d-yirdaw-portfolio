@@ -1,6 +1,6 @@
 # Kesetebirhan D Yirdaw
 
-**Senior AI & Full-Stack Engineer | Python, React, Node.js & OpenAI**
+**Senior AI Backend Engineer | Full-Stack Development & Data Solutions**
 
 ## Skills & Tools
 
@@ -12,11 +12,11 @@
 
 Data Engineer with 5 + years of proven expertise in building reliable Microsoft Fabric Lakehouse pipelines and optimizing BI solutions in various sectors. Strong collaborator with experience translating business requirements into technical solutions that improve performance and stakeholder trust.
 
-I am a senior engineer specializing in AI and full-stack development, with a robust background in building scalable applications and integrating advanced machine learning capabilities. My expertise lies in creating production-grade systems that leverage a diverse technology stack, ensuring seamless interaction between frontend and backend components while maintaining a focus on user experience and performance.
+I am a senior engineer specializing in AI and full-stack development, with a focus on creating robust, production-grade applications that leverage machine learning and data processing. My expertise lies in designing scalable backend systems and integrating advanced AI capabilities, ensuring that the solutions I build not only meet technical requirements but also deliver significant business value.
 
-I have hands-on experience with technologies including Python, React, Node.js, PostgreSQL, and OpenAI, among others. I excel in developing AI-powered applications that require complex data processing and visualization, utilizing tools such as Power BI and Plotly. My approach encompasses defining infrastructure as code for automated deployments, ensuring reliability and efficiency across the application lifecycle. I am skilled in managing user authentication, persistent data storage, and server-side rendering to optimize both performance and security.
+My technical proficiency encompasses a diverse stack, including Python, Node.js, React, and various databases like PostgreSQL and Redis. I excel in developing complex systems that require seamless interaction across multiple technologies, employing best practices in software architecture and deployment. My experience includes implementing user authentication, persistent data storage, and AI-powered inference, which allows me to tackle a wide range of challenges across different business domains.
 
-I am committed to continuous learning and innovation in software engineering, aiming to contribute to projects that push the boundaries of technology. My goal is to leverage my skills in AI and full-stack development to create impactful solutions that address real-world challenges and enhance user engagement.
+I am committed to continuous improvement and innovation, focusing on clean code, efficient workflows, and maintaining a well-defined structure within my projects. My goal is to contribute to teams that prioritize high-quality engineering and impactful AI solutions, driving advancements in technology while enhancing user experiences.
 
 ---
 
@@ -29,7 +29,7 @@ I am committed to continuous learning and innovation in software engineering, ai
 
 ### Portfolio
 
-A Express + PostgreSQL + OpenAI-powered AI-powered API service spanning 8 architectural layers with integrated AI capabilities and production infrastructure.
+This project analyzes GitHub repositories to generate professional portfolios that effectively communicate a developer's skills and project contributions.
 
 <p align="right">
   <a href="./project-portfolio/README.md"><b>View Full Project →</b></a>
@@ -46,7 +46,7 @@ A Express + PostgreSQL + OpenAI-powered AI-powered API service spanning 8 archit
 
 ### Cora Recap Engine
 
-A Next.js + PostgreSQL + OpenAI-powered AI-powered full-stack application spanning 7 architectural layers with integrated AI capabilities and production infrastructure.
+This project automates lead recap processes and integrates various services to streamline inbound and outbound lead management.
 
 <p align="right">
   <a href="./project-cora-recap-engine/README.md"><b>View Full Project →</b></a>
@@ -63,7 +63,7 @@ A Next.js + PostgreSQL + OpenAI-powered AI-powered full-stack application spanni
 
 ### Repo Pulse
 
-A well-engineered data-driven application spanning 5 architectural layers.
+RepoPulse tracks the status of GitHub repositories by collecting snapshots and generating reports, helping teams manage their sprint progress effectively.
 
 <p align="right">
   <a href="./project-repopulse/README.md"><b>View Full Project →</b></a>
@@ -80,7 +80,7 @@ A well-engineered data-driven application spanning 5 architectural layers.
 
 ### Lead Conversion
 
-A OpenAI-powered software project spanning 4 architectural layers with integrated AI capabilities.
+The project automates the process of converting cold leads into active participants in an AI class by tracking engagement and facilitating interactions through an AI agent.
 
 <p align="right">
   <a href="./project-lead-conversion/README.md"><b>View Full Project →</b></a>
