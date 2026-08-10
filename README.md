@@ -1,6 +1,6 @@
 # Kesetebirhan D Yirdaw
 
-**Senior AI Backend & Full-Stack Engineer | Python, React & Node.js**
+**Senior AI & Full-Stack Engineer | Python, React, Node.js & OpenAI**
 
 ## Skills & Tools
 
@@ -12,11 +12,11 @@
 
 Data Engineer with 5 + years of proven expertise in building reliable Microsoft Fabric Lakehouse pipelines and optimizing BI solutions in various sectors. Strong collaborator with experience translating business requirements into technical solutions that improve performance and stakeholder trust.
 
-I am a senior engineer specializing in AI and full-stack development, with a strong focus on building robust backend systems and integrating machine learning capabilities. My expertise lies in crafting production-grade applications that leverage a polyglot technology stack, enabling seamless interaction between frontend and backend components while ensuring optimal performance and security.
+I am a senior engineer specializing in AI and full-stack development, with a focus on building robust applications that leverage cutting-edge technologies. My expertise lies in creating seamless integrations of AI capabilities into production systems, ensuring that solutions not only meet business needs but also enhance user experiences. I thrive on tackling complex engineering challenges and delivering high-quality software that scales effectively.
 
-My technical proficiency encompasses a diverse range of technologies, including Python, Node.js, React, and PostgreSQL, as well as cloud services and data visualization tools. I have hands-on experience with AI integration using OpenAI, and I excel in developing scalable solutions that utilize ETL processes and advanced data processing techniques. My work often involves managing architectural complexity across multiple interconnected components, ensuring that systems are both efficient and maintainable.
+My technical skill set encompasses a diverse range of technologies, including Python, React, Node.js, and PostgreSQL, as well as data visualization tools like Power BI and Plotly. I have hands-on experience with machine learning and AI integration using OpenAI, along with a solid foundation in backend development and database management. I am adept at implementing production infrastructure as code, ensuring reproducible and automated deployments across the application lifecycle.
 
-I am committed to clean code principles and employ infrastructure as code practices to facilitate reproducible and automated deployments. My goal is to contribute to innovative projects that harness the power of AI and data-driven insights, ultimately enhancing user experiences and driving business value.
+I approach software development with a focus on clean architecture and domain-driven design, aiming to create systems that are both maintainable and efficient. My goal is to contribute to innovative projects that push the boundaries of technology while maintaining a strong emphasis on quality and performance. I am always eager to learn and grow, looking for opportunities to collaborate with teams that share a commitment to excellence in engineering.
 
 ---
 
@@ -93,7 +93,13 @@ A Express-powered software project spanning 4 architectural layers.
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="45%" align="center" valign="middle">
+
+<img src="https://d2eiog5yno1qk7.cloudfront.net/Animation_4.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
 
 ### Pedal Power: Predicting Washington DC's Bike Demand with Weather Insights
 
@@ -110,7 +116,13 @@ This project forecasts bike demand for a bikeshare program by analyzing weather 
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="45%" align="center" valign="middle">
+
+<img src="https://d2eiog5yno1qk7.cloudfront.net/Overview_of_Dashboard.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
 
 ### 3 Brothers Retail
 
@@ -127,7 +139,13 @@ This project provides a dashboard that visualizes sales data and profit margins,
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="45%" align="center" valign="middle">
+
+<img src="https://d2eiog5yno1qk7.cloudfront.net/Final_Readmission_Dashboard.PNG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
 
 ### 30-Day Hospital Readmission Insights and Cost Trends
 
