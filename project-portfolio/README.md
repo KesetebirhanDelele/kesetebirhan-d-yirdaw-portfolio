@@ -1,6 +1,6 @@
 # Portfolio
 
-A Express + PostgreSQL + OpenAI-powered AI-powered API service spanning 8 architectural layers with integrated AI capabilities and production infrastructure.
+This project analyzes GitHub repositories to generate professional portfolios that effectively communicate a developer's skills and project contributions.
 
 ---
 [← Back to portfolio](../README.md)
