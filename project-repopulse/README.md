@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Tracks the status of software development sprints by collecting data and generating analysis reports.
+Tracks software development sprints by collecting data from repositories and generating analytical reports.
 
 ---
 
