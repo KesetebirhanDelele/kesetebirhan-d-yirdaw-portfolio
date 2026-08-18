@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analyzes trends in the cosmetic product industry, providing insights into product counts and market dynamics.
+Analyzes and visualizes trends in the cosmetic product industry to provide insights into market dynamics.
 
 ---
 
