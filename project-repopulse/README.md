@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-Tracks software development sprints by collecting data from repositories and generating analytical reports.
+This application helps software teams monitor the progress of their development sprints by gathering data from GitHub repositories and producing insightful reports for analysis. It streamlines the tracking process, allowing teams to make informed decisions and improve productivity.
+
+A key design decision was the implementation of strong domain separation, which effectively managed the complexity of the system. This approach ensures that different components operate independently while still communicating seamlessly, enhancing maintainability and scalability.
 
 ---
 
