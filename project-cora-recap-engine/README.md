@@ -2,21 +2,21 @@
 
 ## Project Overview
 
-Automates lead recap processes and integrates services to streamline lead management.
+Provides an API and worker service to automate lead management and recap processes for enhanced efficiency.
 
 ---
 
 ## Business Problem
 
-The Cora Recap Engine automates lead recap processes for sales teams, allowing them to efficiently manage inbound and outbound leads. This tool is designed for organizations that need to streamline their lead management and improve communication with potential clients.
+The Cora Recap Engine addresses the challenge of managing and automating lead processes for businesses, particularly those handling inbound and outbound leads. It streamlines recap workflows, reducing manual effort and improving efficiency for sales teams.
 
 ---
 
 ## Objective
 
-- Automate the recap process for inbound and outbound leads.
-- Integrate multiple services to enhance lead management efficiency.
-- Provide AI-generated summaries to support sales teams in their outreach efforts.
+- Automate lead management and recap processes to enhance operational efficiency.
+- Integrate AI capabilities for generating summaries and insights from lead interactions.
+- Provide a reliable API service to replace complex workflows like those offered by Zapier.
 
 ---
 
@@ -29,26 +29,25 @@ The Cora Recap Engine automates lead recap processes for sales teams, allowing t
 - OpenAI
 - SQLAlchemy
 - Docker
-- Python
+- Pydantic
 
 ---
 
 ## Project Workflow
 
-- Sales teams send lead information through webhooks to the API service.
-- The API processes requests and stores lead data in PostgreSQL.
-- Background jobs are queued in Redis using RQ for processing tasks like AI analysis and lead updates.
-- AI-generated summaries are created using OpenAI and stored for future reference.
-- The system updates the CRM and schedules callbacks as needed.
+- The API service receives lead data through webhooks and processes it using FastAPI.
+- Data is stored persistently in PostgreSQL, ensuring authoritative state management.
+- The worker service utilizes RQ to handle background job execution for processing leads.
+- AI-driven summaries are generated using OpenAI, enhancing the quality of recaps.
+- The system integrates with external services like GHL for CRM updates and Synthflow for callback scheduling.
 
 ---
 
 ## Key Insights
 
-- Utilized a persistent PostgreSQL database to ensure reliable state management across lead interactions.
-- Implemented a high-performance caching layer with Redis to optimize job execution and reduce latency.
-- Demonstrated effective integration of AI capabilities to enhance lead summaries, improving the quality of sales outreach.
-- Managed complex interactions across 11 interconnected components, showcasing strong architectural design skills.
+- By using PostgreSQL as the authoritative state store, the system ensures data integrity and reliability across multiple components.
+- The integration of OpenAI for AI analysis allows for automated insights, reducing the manual workload for sales teams.
+- Containerized deployment with Docker facilitates easy scalability and consistent environments across development and production.
 
 ---
 
@@ -60,9 +59,9 @@ No project preview image available.
 
 ## Business Impact
 
-- Enabled sales teams to save time and reduce manual effort in lead management.
-- Improved the accuracy and relevance of lead recaps through AI-generated insights.
-- Showcased advanced technical skills in building a scalable and efficient API service.
+- Enhanced efficiency in lead management processes, allowing teams to focus on higher-value tasks.
+- Demonstrated capability in managing complex system architectures with multiple integrated components.
+- Showcased practical AI engineering skills in a production-grade application, highlighting readiness for real-world challenges.
 
 ---
 
