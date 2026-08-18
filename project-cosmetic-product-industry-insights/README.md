@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-Analyzes and visualizes trends in the cosmetic product industry to provide insights into market dynamics.
+This application provides valuable insights into the cosmetic product industry by analyzing and visualizing trends in product counts, chemical usage, and market dynamics over time. It is designed for industry professionals, marketers, and researchers seeking to make informed decisions based on data-driven trends.
+
+A key design decision was to focus on user-friendly visualizations, allowing users to easily interpret complex data and identify significant trends without requiring extensive technical expertise.
 
 ---
 
