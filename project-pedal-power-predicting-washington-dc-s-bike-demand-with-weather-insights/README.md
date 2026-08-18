@@ -2,21 +2,21 @@
 
 ## Project Overview
 
-Forecasts bike demand for a bikeshare program by analyzing weather data and historical usage.
+Predicts bike demand for a bikeshare program by analyzing weather data and historical usage.
 
 ---
 
 ## Business Problem
 
-Washington DC's Capital Bikeshare program struggles with unpredictable bike demand influenced by weather and seasonal changes. This inconsistency can lead to inefficiencies in bike distribution, impacting user satisfaction and operational costs.
+Washington DC's Capital Bikeshare program struggles with unpredictable bike demand influenced by weather and seasonal changes. This inconsistency can lead to operational inefficiencies and user dissatisfaction, making it essential to accurately forecast bike demand.
 
 ---
 
 ## Objective
 
-- Forecast bike demand fluctuations based on weather patterns.
-- Optimize bike availability to improve user satisfaction.
-- Enhance operational efficiency for fleet managers.
+- Forecast bike demand using weather data and historical usage patterns.
+- Optimize bike availability to enhance user satisfaction.
+- Enable fleet managers to proactively adjust bike distribution.
 
 ---
 
@@ -25,26 +25,26 @@ Washington DC's Capital Bikeshare program struggles with unpredictable bike dema
 - Python
 - Pandas
 - Facebook's Prophet Model
-- CSV
+- CSV files
 - Data Lakehouse
 
 ---
 
 ## Project Workflow
 
-- Identify the problem of forecasting bike demand based on weather data.
-- Prepare and explore datasets, including merging bike usage and weather data.
-- Build a time series forecasting model using Facebook's Prophet.
-- Schedule and deploy the pipeline for ongoing demand predictions.
-- Monitor and validate the pipeline runs to ensure successful data processing.
+- Identify the problem of forecasting bike demand based on weather patterns.
+- Prepare and explore the dataset, including importing data and summarizing it.
+- Integrate weather data with bike usage data for analysis.
+- Build and deploy a predictive model to forecast bike demand.
+- Monitor and validate the pipeline for data processing and model deployment.
 
 ---
 
 ## Key Insights
 
-- The project integrates weather data with historical bike usage to predict demand.
-- Utilizes independent variables like temperature, humidity, and precipitation to forecast bike usage.
-- The model aims to provide actionable insights for dynamic bike distribution.
+- The project utilizes historical bike usage data and weather variables like temperature and humidity.
+- Independent variables include tempmax, tempmin, humidity, rain, snow depth, cloudcover, windspeed, and datetime.
+- The model aims to predict both pickup and dropoff counts for bikes.
 
 ---
 
@@ -56,9 +56,9 @@ Washington DC's Capital Bikeshare program struggles with unpredictable bike dema
 
 ## Business Impact
 
-- Improves bike availability, leading to higher user satisfaction.
-- Reduces operational costs by optimizing bike distribution.
-- Enables proactive adjustments to fleet management based on predicted demand.
+- Improved operational efficiency by accurately forecasting bike demand.
+- Reduced costs associated with bike redistribution and availability.
+- Enhanced user satisfaction through better bike availability during peak demand times.
 
 ---
 
