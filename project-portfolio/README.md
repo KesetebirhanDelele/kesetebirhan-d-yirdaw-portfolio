@@ -2,52 +2,52 @@
 
 ## Project Overview
 
-Analyzes GitHub repositories to generate professional portfolios that effectively communicate a developer's skills.
+Analyzes GitHub repositories to create recruiter-friendly developer portfolios, showcasing skills and project value.
 
 ---
 
 ## Business Problem
 
-Students and early-career developers often have strong GitHub profiles but struggle to effectively communicate their technical skills and project contributions to recruiters. Existing tools require manual input, making it difficult to showcase their capabilities accurately.
+Repo2Reputation addresses the challenge faced by students and early-career developers who have strong GitHub profiles but struggle to effectively communicate their technical skills and project value to recruiters. The application automates the creation of professional portfolios that accurately reflect a developer's capabilities derived from their actual code.
 
 ---
 
 ## Objective
 
-- Automate the generation of professional portfolios from GitHub repositories.
-- Provide AI-driven insights into a developer's skills and project value.
-- Create a recruiter-friendly narrative that highlights technical complexity and engineering depth.
+- Analyze GitHub repositories to derive technical insights and skills.
+- Generate recruiter-friendly portfolios with minimal manual input.
+- Enhance the visibility of developers' engineering strengths and project contributions.
 
 ---
 
 ## Tools & Technologies
 
-- jwt
-- express
-- rest-routes
-- postgresql
-- openai
-- docker
-- graphql
-- power-bi
+- Node.js
+- React
+- PostgreSQL
+- OpenAI
+- Docker
+- JWT
+- Express
+- GraphQL
 
 ---
 
 ## Project Workflow
 
-- Import GitHub repositories for analysis.
-- Run AI-powered analysis to detect technologies and architecture signals.
-- Generate a narrative and project descriptions based on the analysis.
-- Allow users to review and refine the AI-generated content.
-- Publish the portfolio as a shareable URL and downloadable PDF resume.
+- Users connect their GitHub accounts to import repositories.
+- The system performs an AI-driven analysis of the codebase to identify technologies and architecture.
+- Insights are processed to generate a narrative and project descriptions.
+- Developers can review and refine the AI-generated content in a structured editor.
+- The final portfolio is published as a shareable URL and downloadable PDF resume.
 
 ---
 
 ## Key Insights
 
-- The AI analysis pipeline ensures that portfolio content is grounded in actual code, enhancing accuracy.
-- Automated technology detection provides confidence scores, helping users understand their skills better.
-- The structured editor allows for user refinement of AI-generated content, ensuring personal touch and relevance.
+- The AI analysis pipeline provides technology detection and architecture insights, ensuring that the generated content is grounded in actual code.
+- By automating the portfolio creation process, the application reduces the burden on developers to manually write descriptions, leading to more accurate representations of their skills.
+- The integration of LinkedIn PDF auto-fill streamlines the process of creating a professional profile, enhancing user experience.
 
 ---
 
@@ -59,9 +59,9 @@ No project preview image available.
 
 ## Business Impact
 
-- Streamlined the portfolio creation process for developers, saving time and effort.
-- Enabled a more accurate representation of skills, improving the chances of attracting recruiter attention.
-- Demonstrated practical AI engineering capabilities in a production-grade application.
+- Demonstrated practical AI engineering in a production-grade codebase, showcasing the ability to handle complex data analysis.
+- Managed architectural complexity across 15 interconnected system components, highlighting strong software engineering practices.
+- Operated across a 10-technology stack, illustrating proficiency in full application lifecycle development.
 
 ---
 
