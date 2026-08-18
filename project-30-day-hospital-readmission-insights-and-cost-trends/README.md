@@ -2,21 +2,21 @@
 
 ## Project Overview
 
-Predicts hospital readmission likelihood within 30 days of discharge, offering actionable insights for healthcare providers.
+Predicts patient readmission likelihood within 30 days of discharge, providing insights through an interactive dashboard.
 
 ---
 
 ## Business Problem
 
-Unplanned 30-day hospital readmissions are a significant issue in healthcare, leading to increased costs and poor patient outcomes. This project aims to predict which patients are at risk of readmission before they leave the hospital, allowing for timely interventions.
+Unplanned 30-day hospital readmissions are a costly issue in healthcare, impacting patient care and hospital resources. This project aims to predict which patients are likely to return to the hospital shortly after discharge, enabling proactive interventions.
 
 ---
 
 ## Objective
 
-- Develop a predictive model for identifying high-risk patients using machine learning.
-- Create an interactive dashboard to visualize readmission trends and cost drivers.
-- Provide actionable insights for healthcare stakeholders to improve patient care and reduce costs.
+- Develop predictive models for hospital readmissions using patient demographics and clinical profiles.
+- Create an interactive dashboard to visualize readmission risks and cost trends.
+- Provide actionable insights for healthcare stakeholders to improve patient outcomes and reduce costs.
 
 ---
 
@@ -27,15 +27,17 @@ Unplanned 30-day hospital readmissions are a significant issue in healthcare, le
 - Power BI
 - Logistic Regression
 - Random Forest
+- Power Query Editor
+- Excel
 
 ---
 
 ## Project Workflow
 
-- Import hospital admission data into Power BI.
-- Clean the data by removing duplicates and filtering out placeholder values.
-- Train Logistic Regression and Random Forest classifiers on patient demographics and clinical profiles.
-- Develop an interactive dashboard to present insights on readmission risks and cost trends.
+- Import patient admission data into Power BI from an Excel workbook.
+- Clean the data by removing duplicate records and filtering out placeholder values.
+- Train Logistic Regression and Random Forest classifiers on the cleaned data.
+- Develop an interactive dashboard to display insights on readmission risks and cost drivers.
 - Deploy the dashboard for stakeholder exploration and decision-making.
 
 ---
@@ -43,8 +45,8 @@ Unplanned 30-day hospital readmissions are a significant issue in healthcare, le
 ## Key Insights
 
 - The project utilizes machine learning to forecast high-risk discharges based on patient demographics and clinical profiles.
-- The dashboard reveals critical metrics such as readmission rates and patient volume.
-- Stakeholders can identify cost drivers and risk segments to inform their interventions.
+- The final dashboard reveals critical insights into readmission rates and patient volume.
+- Stakeholders can explore patterns and act on predictive indicators to intervene early.
 
 ---
 
@@ -56,9 +58,9 @@ Unplanned 30-day hospital readmissions are a significant issue in healthcare, le
 
 ## Business Impact
 
-- Enables early intervention for at-risk patients, potentially saving lives.
-- Reduces unnecessary hospital costs associated with readmissions.
-- Supports data-driven decision-making for healthcare providers and policymakers.
+- Enables healthcare providers to identify high-risk patients before discharge.
+- Supports data-driven decision-making to improve patient care and reduce readmission rates.
+- Helps in optimizing resource allocation and controlling healthcare costs.
 
 ---
 
