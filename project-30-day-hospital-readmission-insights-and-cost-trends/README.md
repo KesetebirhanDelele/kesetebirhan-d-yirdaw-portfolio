@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Predicts patient readmission likelihood within 30 days of discharge, providing insights through an interactive dashboard.
+Predicts which patients may return to the hospital within 30 days of discharge, providing actionable insights through a dashboard.
 
 ---
 
