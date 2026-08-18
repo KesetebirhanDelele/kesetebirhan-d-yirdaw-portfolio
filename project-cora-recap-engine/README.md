@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-Automates lead management and recap processes to enhance efficiency in handling inbound and outbound leads.
+This application automates lead management and recap processes, streamlining operations for businesses handling numerous inbound and outbound leads. By enhancing efficiency, it allows teams to focus more on strategic activities rather than administrative tasks. 
+
+A key design decision was the integration of AI capabilities using OpenAI, which not only improves the accuracy of lead assessments but also generates insightful recaps, ensuring that users have the most relevant information at their fingertips.
 
 ---
 
