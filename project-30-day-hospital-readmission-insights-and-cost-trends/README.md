@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This application helps healthcare providers identify patients at risk of readmission within 30 days of discharge, allowing for targeted interventions to improve patient outcomes and reduce costs. By analyzing patient demographics and clinical profiles, it offers actionable insights through an interactive dashboard that enhances decision-making. 
-
-The most critical design decision was the focus on user-friendly data visualization, ensuring that healthcare professionals can quickly interpret complex data and make informed choices to better manage patient care.
+This project predicts which patients are likely to return to the hospital within 30 days of discharge by analyzing their demographics and clinical profiles, ultimately providing insights through an interactive dashboard.
 
 ---
 
