@@ -42,11 +42,17 @@ This project predicts which patients are likely to return to the hospital within
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/KesetebirhanDelele/RCM/main/image.png" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
 
 ### RCM
 
-The project analyzes healthcare revenue cycle data to identify inefficiencies and provides actionable insights through an interactive dashboard.
+This project analyzes healthcare revenue cycle data to provide insights into claim denials and payment processes through an interactive dashboard.
 
 <p align="right">
   <a href="./project-rcm/README.md"><b>View Full Project →</b></a>
