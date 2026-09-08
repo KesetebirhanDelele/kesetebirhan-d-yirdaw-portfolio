@@ -2,51 +2,52 @@
 
 ## Project Overview
 
-This project predicts which patients are likely to return to the hospital within 30 days of discharge by analyzing their demographics and clinical profiles, ultimately providing insights through an interactive dashboard.
+Predicts which patients are likely to be readmitted to the hospital within 30 days of discharge, aiding healthcare stakeholders in improving patient care.
 
 ---
 
 ## Business Problem
 
-Unplanned 30-day hospital readmissions are a costly issue in healthcare, impacting patient care and hospital resources. This project aims to predict which patients are likely to return to the hospital shortly after discharge, enabling proactive interventions.
+Hospitals in the U.S. face a significant challenge with a 14.67% average readmission rate within 30 days of discharge, leading to high costs and preventable complications for patients. This project aims to identify high-risk patients at discharge to implement targeted interventions and reduce avoidable readmissions.
 
 ---
 
 ## Objective
 
-- Develop predictive models for hospital readmissions using patient demographics and clinical profiles.
-- Create an interactive dashboard to visualize readmission risks and cost trends.
-- Provide actionable insights for healthcare stakeholders to improve patient outcomes and reduce costs.
+- Predict 30-day hospital readmissions using machine learning models.
+- Identify key risk factors across demographic and clinical dimensions.
+- Visualize outcomes in Power BI to support hospital decision-making.
 
 ---
 
 ## Tools & Technologies
 
-- Python
-- Microsoft Fabric
 - Power BI
+- Python
+- Pandas
+- NumPy
 - Logistic Regression
 - Random Forest
-- Power Query Editor
-- Excel
+- XGBoost
+- Excel/CSV
 
 ---
 
 ## Project Workflow
 
-- Import patient admission data into Power BI from an Excel workbook.
-- Clean the data by removing duplicate records and filtering out placeholder values.
-- Train Logistic Regression and Random Forest classifiers on the cleaned data.
-- Develop an interactive dashboard to display insights on readmission risks and cost drivers.
-- Deploy the dashboard for stakeholder exploration and decision-making.
+- Download and import historical hospital admission data from Kaggle.
+- Clean and prepare the dataset using Python, creating new features like Readmission Flag and High-Risk Indicator.
+- Split the dataset into training and testing sets and apply various classification algorithms to predict readmission likelihood.
+- Export predictions and metrics for visualization in Power BI.
+- Develop interactive dashboards in Power BI to display KPIs and insights.
 
 ---
 
 ## Key Insights
 
-- The project utilizes machine learning to forecast high-risk discharges based on patient demographics and clinical profiles.
-- The final dashboard reveals critical insights into readmission rates and patient volume.
-- Stakeholders can explore patterns and act on predictive indicators to intervene early.
+- The average 30-day readmission rate is 14.67%, indicating a need for targeted interventions.
+- Key demographic factors such as Age Group, Race, and Insurance Provider were identified as significant risk factors for readmission.
+- The project includes strategic business cases with quantified insights and ROI evaluations to guide resource allocation.
 
 ---
 
@@ -58,9 +59,9 @@ Unplanned 30-day hospital readmissions are a costly issue in healthcare, impacti
 
 ## Business Impact
 
-- Enables healthcare providers to identify high-risk patients before discharge.
-- Supports data-driven decision-making to improve patient care and reduce readmission rates.
-- Helps in optimizing resource allocation and controlling healthcare costs.
+- Supports data-driven decisions to reduce avoidable readmissions.
+- Helps lower hospital penalties associated with high readmission rates.
+- Enhances patient-centered care delivery by identifying high-risk groups.
 
 ---
 
