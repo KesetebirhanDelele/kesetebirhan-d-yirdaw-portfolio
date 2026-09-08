@@ -4,7 +4,7 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/TSQL-F2C811?style=for-the-badge&logoColor=white" alt="TSQL"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-3776AB?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Medallion%20Architecture-217346?style=for-the-badge&logoColor=white" alt="Medallion Architecture"> <img src="https://img.shields.io/badge/SQL-FF7A00?style=for-the-badge&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Python-00A6A6?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Clinical%20Data-6A5ACD?style=for-the-badge&logoColor=white" alt="Clinical Data"> <img src="https://img.shields.io/badge/Healthcare%20Data-D83B01?style=for-the-badge&logoColor=white" alt="Healthcare Data"> <img src="https://img.shields.io/badge/Data%20Engineering-4361EE?style=for-the-badge&logoColor=white" alt="Data Engineering"> <img src="https://img.shields.io/badge/Data%20Analysis-EA4335?style=for-the-badge&logoColor=white" alt="Data Analysis"> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Data%20Quality-025E8C?style=for-the-badge&logoColor=white" alt="Data Quality">
+<img src="https://img.shields.io/badge/TSQL-F2C811?style=for-the-badge&logoColor=white" alt="TSQL"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-3776AB?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Medallion%20Architecture-217346?style=for-the-badge&logoColor=white" alt="Medallion Architecture"> <img src="https://img.shields.io/badge/SQL-FF7A00?style=for-the-badge&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Python-00A6A6?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Clinical%20%26%20Healthcare%20Data-6A5ACD?style=for-the-badge&logoColor=white" alt="Clinical & Healthcare Data"> <img src="https://img.shields.io/badge/Analytics%20%26%20Viz-D83B01?style=for-the-badge&logoColor=white" alt="Analytics & Viz"> <img src="https://img.shields.io/badge/Data%20extraction-4361EE?style=for-the-badge&logoColor=white" alt="Data extraction"> <img src="https://img.shields.io/badge/Data%20transformation-EA4335?style=for-the-badge&logoColor=white" alt="Data transformation"> <img src="https://img.shields.io/badge/Data%20validation-F2C811?style=for-the-badge&logoColor=white" alt="Data validation"> <img src="https://img.shields.io/badge/Statistical%20analysis-025E8C?style=for-the-badge&logoColor=white" alt="Statistical analysis">
 
 ---
 
@@ -19,20 +19,14 @@ Clinical Data Analyst and Data Engineer with 5+ years of experience developing S
 
 <table>
 <tr>
-<td width="45%" align="center" valign="middle">
+<td width="100%" valign="top">
 
-<img src="https://d2eiog5yno1qk7.cloudfront.net/Final_Readmission_Dashboard.PNG" width="100%" height="220">
+### RCM
 
-</td>
-
-<td width="55%" valign="top">
-
-### 30-Day Hospital Readmission Insights and Cost Trends
-
-This project predicts which patients are likely to return to the hospital within 30 days of discharge by analyzing their demographics and clinical profiles, ultimately providing insights through an interactive dashboard.
+Analyzes healthcare revenue cycle data to provide insights on claim denials and payment delays through a visual dashboard.
 
 <p align="right">
-  <a href="./project-30-day-hospital-readmission-insights-and-cost-trends/README.md"><b>View Full Project →</b></a>
+  <a href="./project-rcm/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
@@ -44,18 +38,18 @@ This project predicts which patients are likely to return to the hospital within
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/KesetebirhanDelele/RCM/main/image.png" width="100%" height="220">
+<img src="https://d2eiog5yno1qk7.cloudfront.net/Final_Readmission_Dashboard.PNG" width="100%" height="220">
 
 </td>
 
 <td width="55%" valign="top">
 
-### RCM
+### 30-Day Hospital Readmission Insights and Cost Trends
 
-This project analyzes healthcare revenue cycle data to provide insights into claim denials and payment processes through an interactive dashboard.
+Predicts which patients are likely to be readmitted to the hospital within 30 days of discharge, aiding healthcare stakeholders in improving patient care.
 
 <p align="right">
-  <a href="./project-rcm/README.md"><b>View Full Project →</b></a>
+  <a href="./project-30-day-hospital-readmission-insights-and-cost-trends/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
@@ -67,7 +61,7 @@ This project analyzes healthcare revenue cycle data to provide insights into cla
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/kesetebirhandelele/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:kesetebirhan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kesetebirhandelele/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:k esetebirhan @gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 _Generated by Repo2Reputation._
