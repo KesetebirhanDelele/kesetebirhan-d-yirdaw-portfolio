@@ -2,21 +2,21 @@
 
 ## Project Overview
 
-This project analyzes healthcare revenue cycle data to provide insights into claim denials and payment processes through an interactive dashboard.
+Analyzes healthcare revenue cycle data to provide insights on claim denials and payment delays through a visual dashboard.
 
 ---
 
 ## Business Problem
 
-Healthcare providers face challenges with claim denials and payment delays, which can lead to revenue loss and inefficiencies in the revenue cycle. This application helps identify these issues by analyzing relevant data, enabling providers to improve their financial processes.
+Healthcare organizations often struggle with inefficiencies in their revenue cycle, leading to claim denials and payment delays. This project addresses these challenges by providing actionable insights through data analysis, helping healthcare providers optimize their financial processes.
 
 ---
 
 ## Objective
 
-- Analyze healthcare revenue cycle data to uncover insights on claim denials and payment processes.
-- Integrate data from Electronic Medical Records (EMR), claims submissions, and CPT codes for comprehensive analysis.
-- Deliver actionable insights through an interactive dashboard for better decision-making.
+- Analyze healthcare revenue cycle data to identify claim denials and payment delays.
+- Integrate multiple data sources, including EMR and claims data, for comprehensive insights.
+- Deliver visual analytics through a Power BI dashboard to support decision-making.
 
 ---
 
@@ -32,33 +32,33 @@ Healthcare providers face challenges with claim denials and payment delays, whic
 
 ## Project Workflow
 
-- Load raw data from CSV/Excel files into staging tables in SQL Server.
-- Clean and transform the data, integrating EMR and claims data while handling null values and formatting dates.
+- Load raw data from CSV/Excel into staging tables in SQL Server.
+- Clean and transform the data by joining EMR and claims datasets and handling null values.
 - Aggregate the cleaned data into analytics-ready views for dashboard consumption.
-- Create a Power BI dashboard to visualize key metrics and trends related to claim denials and payments.
-- Refresh the dashboard regularly to keep metrics updated for ongoing analysis.
+- Create a Power BI dashboard to visualize key metrics and trends.
+- Refresh the dashboard to display updated insights for stakeholders.
 
 ---
 
 ## Key Insights
 
-- Utilized Medallion Architecture to ensure scalable and organized data processing, enhancing data quality and accessibility.
-- Developed a comprehensive dashboard in Power BI that visualizes critical KPIs, aiding in quick decision-making.
-- Identified key denial reasons and benchmarked provider performance, providing actionable recommendations for improvement.
+- Utilized Medallion Architecture to efficiently manage data ingestion and transformation, enhancing scalability.
+- Identified key performance indicators (KPIs) such as denial rate and average days in accounts receivable to drive actionable insights.
+- Recommended procedural improvements based on detailed analysis of denial trends at the CPT code level.
 
 ---
 
 ## Final Dashboard / Project Preview
 
-![Final Dashboard](https://raw.githubusercontent.com/KesetebirhanDelele/RCM/main/image.png)
+No project preview image available.
 
 ---
 
 ## Business Impact
 
-- Enabled healthcare providers to pinpoint inefficiencies in their revenue cycle, leading to potential improvements in claim processing.
-- Facilitated data-driven decision-making by providing clear visualizations of denial trends and payment metrics.
-- Demonstrated the ability to integrate complex datasets for meaningful insights, showcasing strong data management and analytical skills.
+- Enabled healthcare providers to benchmark performance and identify areas for improvement.
+- Facilitated data-driven decision-making through interactive visualizations.
+- Provided insights into top denial reasons, allowing for targeted interventions.
 
 ---
 
