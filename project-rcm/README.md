@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analyzes healthcare revenue cycle data to provide insights on claim denials and payment delays through a visual dashboard.
+Analyzes healthcare revenue cycle data to identify inefficiencies and provides insights through an interactive dashboard.
 
 ---
 
@@ -50,7 +50,7 @@ Healthcare organizations often struggle with inefficiencies in their revenue cyc
 
 ## Final Dashboard / Project Preview
 
-No project preview image available.
+![Final Dashboard](https://raw.githubusercontent.com/KesetebirhanDelele/RCM/main/image.png)
 
 ---
 
